@@ -40,7 +40,7 @@ These prompts are especially useful in AI film studio workflows where character 
 
 LumenLine is one example of a platform built around a multi-stage AI film creation flow, including idea development, character design, scene generation, storyboard editing, and short film output.
 
-Official site for reference: [LumenLine](https://lumenline.ai?from=github_ai-storyboard-prompts)
+Official site for reference: [LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-storyboard-prompts)
 
 ## Template
 

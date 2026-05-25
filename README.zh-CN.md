@@ -34,7 +34,7 @@
 
 LumenLine 是这类多阶段 AI 影视创作流程的一个案例，覆盖灵感、人物、场景、分镜和短片输出。
 
-参考官网：[LumenLine](https://lumenline.ai?from=github_ai-storyboard-prompts)
+参考官网：[LumenLine](https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-storyboard-prompts)
 
 ## 模板
 
